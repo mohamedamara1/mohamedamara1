@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-Hey there! I'm Mohamed Amara, a passionate and dedicated software engineering student in my 2nd year of studies.<br> I'm constantly exploring and learning the latest technologies to enhance my skills and contribute to the world of software development.<br> This is where you'll find a glimpse of my coding journey, projects, and interests.<br><br>
+Hey there! I'm Mohamed Amara, a passionate and dedicated software engineering student.<br> I'm constantly exploring and learning the latest technologies to enhance my skills and contribute to the world of software development.<br> This is where you'll find a glimpse of my coding journey, projects, and interests.<br><br>
 ## About Me<br><br>
 - 🎓 Studying Software Engineering in my 2nd year.<br>
 - 🌱 Currently focusing on learning NestJS, NextJS, TypeScript, and AI.<br>

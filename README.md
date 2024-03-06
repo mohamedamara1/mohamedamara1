@@ -1,12 +1,5 @@
 # Welcome to My GitHub Profile!
-Hey there! I'm Mohamed Amara, a passionate and dedicated software engineering student.<br> I'm constantly exploring and learning the latest technologies to enhance my skills and contribute to the world of software development.<br> This is where you'll find a glimpse of my coding journey, projects, and interests.<br><br>
-## About Me<br><br>
-- 🎓 Studying Software Engineering in my 2nd year.<br>
-- 🌱 Currently focusing on learning NestJS, NextJS, TypeScript, and AI.<br>
-- 💡 I'm enthusiastic about building efficient and innovative solutions.<br>
-- 🤝 Open to collaborations and always eager to learn from others.<br><br>
-## What I'm Working On<br><br>
-Right now, I'm diving deep into the world of NestJS, TypeScript, and AI. I believe that these technologies are shaping the future of software development and I'm excited to be a part of it. I'm working on projects that challenge me and help me apply what I'm learning in real-world scenarios.<br><br>
+
 ## My Tech Stack<br><br>
 - 💻 Languages: Java, JavaScript, TypeScript<br>
 - 🚀 Frameworks: NestJS, Spring Boot, ReactJS, NextJS<br>

@@ -9,7 +9,7 @@ Hey there! I'm Mohamed Amara, a passionate and dedicated software engineering st
 Right now, I'm diving deep into the world of NestJS, TypeScript, and AI. I believe that these technologies are shaping the future of software development and I'm excited to be a part of it. I'm working on projects that challenge me and help me apply what I'm learning in real-world scenarios.<br><br>
 ## My Tech Stack<br><br>
 - 💻 Languages: Java, JavaScript, TypeScript<br>
-- 🚀 Frameworks: NestJS, Spring Boot, ReactJS, NextJS, NestJS<br>
+- 🚀 Frameworks: NestJS, Spring Boot, ReactJS, NextJS<br>
 - 🤖 Areas of Interest: Artificial Intelligence, Machine Learning<br>
 - 🛢️ Databases: MySQL, MongoDB, PostgreSQL<br>
 - 🎨 UI/UX: HTML, CSS, FIGMA<br><br>

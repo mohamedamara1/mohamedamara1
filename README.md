@@ -11,7 +11,7 @@ I'm always eager to connect with fellow developers, students, and anyone who sha
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mouhamed-amara/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamed-amara/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohamedamara1&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
